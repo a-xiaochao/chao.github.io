@@ -1,0 +1,15 @@
+ .map {
+     margin: 0 auto;
+     width: 500px;
+     height: 500px;
+     background: white;
+ }
+ .map img {
+     width: 100%;
+     height: auto;
+     margin: 0 auto;
+ }
+
+ map area {
+     outline: none;
+ }
